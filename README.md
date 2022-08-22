@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QJanice
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Software Engineering :pizza:.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me queenobiekwuye@gmail.com
 
